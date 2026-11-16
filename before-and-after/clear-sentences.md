@@ -8,15 +8,15 @@ Practice rewrites from Google's Technical Writing One, Unit 4 (Clear sentences).
 
 > There is a configuration file that is used by the application for the purpose of storing user settings.
 
-> **After**
+**After**
 
-> The application stores user settings in configuration file.
+> The application stores user settings in a configuration file.
 
  **What I changed and why**
 
  - Removed "There is... that is" so the real subject, the application comes first.
  - Replaced "for the purpose of storing" with the active verb "stores".
- - Cut the sentence from 19 to 10 words without losing any meaning.
+ - Cut the sentence from 18 to 10 words without losing any meaning.
 
 ## Sample 2
 
