@@ -3,7 +3,7 @@ Practice rewrites and writing samples as I learn technical writing and docs-as-c
 
 ## What this repo features
 
-- **Before-and-after rewrites:** weak sentences and paragraphs, each with an improved version and a note on what I changed
+- **[Before-and-after rewrites](before-and-after/clear-sentences.md):** weak sentences and paragraphs, each with an improved version and a note on what I changed
 - **Course exercises:** my answers from Google's Technical Writing courses
 - **Writing samples:** short how to guides and reference pages (coming soon)
 
